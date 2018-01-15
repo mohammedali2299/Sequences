@@ -49,8 +49,8 @@ def main():
     #   3. Repeat steps 1 and 2 until all three function calls have run.
     # ------------------------------------------------------------------
     examples_of_indexing(my_list)
-    examples_of_indexing(my_string)
-    examples_of_indexing(my_tuple)
+    #examples_of_indexing(my_string)
+    #examples_of_indexing(my_tuple)
 
 
 def examples_of_indexing(sequence):
